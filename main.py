@@ -1,5 +1,5 @@
 def print_hi():
-    a = 'sandra'
+    a = 'blondie'
     print('hello, ' + a + ', no conflict here')
 
 print_hi()
